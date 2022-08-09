@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "ca05a063b334fcbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b284341ce822db4d",
+        "type": "leaf",
+        "state": {
+          "type": "diff-view",
+          "state": {
+            "file": "OBSIDIAN.lnk",
+            "staged": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed055450171e1c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f38941d2b4b7d2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "170079b592424b8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsidian",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "150591bfc715eefd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f4d0e38cda856cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273
+  },
+  "right": {
+    "id": "70b8d15e264b1a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "112af253755e771d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d455733ed55d53b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca9a78931edcc1aa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b284341ce822db4d",
+  "lastOpenFiles": [
+    "Math.md",
+    "! Index/020 Clothing.md",
+    "! Index/060 Education.md",
+    "! Index/000 Index.md",
+    "! Index/170 Product.md",
+    "! Index/140 Internet.md",
+    "Obsidian.md",
+    "Siv W. U.K..md",
+    "! Index/010 Food.md",
+    "! Index/150 Skill.md"
+  ]
+}

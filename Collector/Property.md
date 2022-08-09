@@ -1,0 +1,5 @@
+# Property
+
+
+[[Tanah]]
+[[Bangunan]]

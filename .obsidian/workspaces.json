@@ -1,0 +1,96 @@
+{
+  "workspaces": {
+    "Index": {
+      "main": {
+        "id": "ca05a063b334fcbe",
+        "type": "split",
+        "children": [
+          {
+            "id": "b97e3762e64b9bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index/000 Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ed055450171e1c7d",
+        "type": "split",
+        "children": [
+          {
+            "id": "1f38941d2b4b7d2e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "150591bfc715eefd",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "170079b592424b8d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "https://www.tradingview.com/x/lzXPX0NX/",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "70b8d15e264b1a5b",
+        "type": "split",
+        "children": [
+          {
+            "id": "112af253755e771d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8d455733ed55d53b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Index/000 Index.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "b97e3762e64b9bcd"
+    }
+  },
+  "active": "Index"
+}
