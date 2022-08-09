@@ -10,5 +10,6 @@
   "legacyEditor": false,
   "showFrontmatter": true,
   "showLineNumber": true,
-  "livePreview": true
+  "livePreview": true,
+  "promptDelete": false
 }

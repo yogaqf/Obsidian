@@ -4,13 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "400f974c58549de5",
+        "id": "08285cecc44c41c8",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": ".obsidian/workspaces.json",
-            "staged": false
+            "file": "Untitled.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -69,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "70b8d15e264b1a5b",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "! Index/010 Food.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +115,15 @@
   },
   "active": "eb7d28e430d143db",
   "lastOpenFiles": [
-    "! Index/000 Index.md",
-    "Siv W. U.K..md",
-    "Soft Skill.md",
-    "! Index/020 Clothing.md",
-    "! Index/010 Food.md",
-    "Investasi/Investor.md",
-    "Yogaa.md",
-    "Obsidian.md",
+    "! Index/150 Skill.md",
+    "! Index/050 Religion.md",
     "! Index/030 Property.md",
-    "Templates/About Me.md"
+    "! Index/010 Food.md",
+    "! Index/000 Index.md",
+    "Obsidian.md",
+    "Soft Skill.md",
+    "Collector/Siv W. U.K..md",
+    "Math.md",
+    "Jadwal Kerja.md"
   ]
 }

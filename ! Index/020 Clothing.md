@@ -28,9 +28,3 @@
 - Hoodie
 - 
 
-
-
-
-
-kbvvlvlvllvnv;nln;vnvns;nv
-vhbvksjdbvdvldsv

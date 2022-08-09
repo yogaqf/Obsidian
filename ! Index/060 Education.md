@@ -13,15 +13,13 @@
 Sama seperti Prinsip Pendidikan No. 2 menurut UNESCO
 
 Menurut Hadis
->
-(Utlubul ilma minal mahdi ilal lahdi)
+>(Utlubul ilma minal mahdi ilal lahdi)
 >
 Artinya, tuntutlah ilmu sejak dari buaian sampai liang lahat
  
 
 ### Siapa yang harus belajar ?
->
-Thalabul ilmi faridhatun '_ala kulli muslimin_ wa muslimatin
+>Thalabul ilmi faridhatun '_ala kulli muslimin_ wa muslimatin
 >
 Artinya Menuntut ilmu itu wajib bagi setiap muslim/muslimah
 

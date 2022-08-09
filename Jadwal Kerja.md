@@ -7,6 +7,7 @@ kanban-plugin: basic
 ## Senin
 
 **Complete**
+- [x] Join Club
 
 
 ## Selasa
