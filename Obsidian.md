@@ -12,12 +12,7 @@ Tags : Software, Plugin
 - Sliding Panes
 - Button
 - Quick Add
-- fgfd
-- gfgfdgfgfg
-f
-lkdnblnnlbnsbnsdbn
-lnblbnlnblbnln
-
+- 
 
 
 

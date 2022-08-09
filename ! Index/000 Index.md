@@ -32,5 +32,4 @@ Berikut adalah pemenuhan kebutuhan Manusia dapat digambarkan dengan piramida Mas
 [[About Me]]
 
 
-hbvdksnljbvdnvlvlnvl
-fafafsfj vlnblnblnmv;mv;
+#yoga 
